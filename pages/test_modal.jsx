@@ -28,9 +28,9 @@ class Page extends React.Component {
         <button className="btn-blue" id="openModal">Open modal
         </button>
         <Modal name={this.state.modal_name}
-          title="title-test" 
-          body={`Body 45678, aaaaaaaaaaaaaaaa ,
-          bbbbbbbbbbbbbbbbbbbbb, CCCCCCCCCCCC`}>
+          title="Modal-test" 
+          body={`モーダルの本文の入力テスト、１１１１１
+          モーダルの本文の入力テスト、２２２２２`}>
         </Modal>
       </div>
       </Layout>

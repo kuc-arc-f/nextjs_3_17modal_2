@@ -27,7 +27,7 @@ export default class Page extends React.Component {
     <div className="modal_wrap">
       <section id={this.props.name} className="modalArea">
         <div id={this.state.modalBgName} className="modalBg"></div>
-        <div className="modalWrapper">
+        <div className="modalWrapper rounded-lg">
           <div className="modalContents">
             <h3 className="text-3xl font-bold">{this.props.title}
             </h3>
