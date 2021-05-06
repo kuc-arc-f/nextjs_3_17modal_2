@@ -26,6 +26,9 @@ yarn dev
 
 ***
 ### Blog:
+* tailwindcss modal / モダール　ダイアログ
+
+https://zenn.dev/knaka0209/books/9e86ccb888758c/viewer/347759
 
 ***
 
